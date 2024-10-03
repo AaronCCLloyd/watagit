@@ -1,5 +1,5 @@
 # Wat-A-Git
-![wat-a-git](assets/webp/wat-a-git.webp)
+![wat-a-git](assets/small-wat-a-git.jpg)
 
 ## What is it?
 
